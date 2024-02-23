@@ -6,4 +6,41 @@
     "n2": 5,
     "n3": 4
   }
+},
+
+{
+  "nome": "Milena",
+  "ano_nascimento": 1998,
+  "notas": {
+    "n1": 8,
+    "n2": 4,
+    "n3": 5
+  }
+},
+{
+  "nome": "Nailson",
+  "ano_nascimento": 1999,
+  "notas": {
+    "n1": 8,
+    "n2": 6,
+    "n3": 4
+  }
+},
+{
+  "nome": "Dilena",
+  "ano_nascimento": 1999,
+  "notas": {
+    "n1": 6,
+    "n2": 7,
+    "n3": 5
+  }
+},
+{
+  "nome": "Dinelma",
+  "ano_nascimento": 2003,
+  "notas": {
+    "n1": 7,
+    "n2": 4,
+    "n3": 6
+  }
 }
